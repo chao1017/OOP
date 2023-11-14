@@ -1,0 +1,14 @@
+D:\test\Encapsulation101\Encapsulation101\bin\Debug\net6.0\Encapsulation101.exe
+D:\test\Encapsulation101\Encapsulation101\bin\Debug\net6.0\Encapsulation101.deps.json
+D:\test\Encapsulation101\Encapsulation101\bin\Debug\net6.0\Encapsulation101.runtimeconfig.json
+D:\test\Encapsulation101\Encapsulation101\bin\Debug\net6.0\Encapsulation101.dll
+D:\test\Encapsulation101\Encapsulation101\bin\Debug\net6.0\Encapsulation101.pdb
+D:\test\Encapsulation101\Encapsulation101\obj\Debug\net6.0\Encapsulation101.GeneratedMSBuildEditorConfig.editorconfig
+D:\test\Encapsulation101\Encapsulation101\obj\Debug\net6.0\Encapsulation101.AssemblyInfoInputs.cache
+D:\test\Encapsulation101\Encapsulation101\obj\Debug\net6.0\Encapsulation101.AssemblyInfo.cs
+D:\test\Encapsulation101\Encapsulation101\obj\Debug\net6.0\Encapsulation101.csproj.CoreCompileInputs.cache
+D:\test\Encapsulation101\Encapsulation101\obj\Debug\net6.0\Encapsulation101.dll
+D:\test\Encapsulation101\Encapsulation101\obj\Debug\net6.0\refint\Encapsulation101.dll
+D:\test\Encapsulation101\Encapsulation101\obj\Debug\net6.0\Encapsulation101.pdb
+D:\test\Encapsulation101\Encapsulation101\obj\Debug\net6.0\Encapsulation101.genruntimeconfig.cache
+D:\test\Encapsulation101\Encapsulation101\obj\Debug\net6.0\ref\Encapsulation101.dll
