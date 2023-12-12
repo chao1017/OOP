@@ -1,0 +1,14 @@
+D:\test\WhereClause101\WhereClause101\bin\Debug\net6.0\WhereClause101.exe
+D:\test\WhereClause101\WhereClause101\bin\Debug\net6.0\WhereClause101.deps.json
+D:\test\WhereClause101\WhereClause101\bin\Debug\net6.0\WhereClause101.runtimeconfig.json
+D:\test\WhereClause101\WhereClause101\bin\Debug\net6.0\WhereClause101.dll
+D:\test\WhereClause101\WhereClause101\bin\Debug\net6.0\WhereClause101.pdb
+D:\test\WhereClause101\WhereClause101\obj\Debug\net6.0\WhereClause101.GeneratedMSBuildEditorConfig.editorconfig
+D:\test\WhereClause101\WhereClause101\obj\Debug\net6.0\WhereClause101.AssemblyInfoInputs.cache
+D:\test\WhereClause101\WhereClause101\obj\Debug\net6.0\WhereClause101.AssemblyInfo.cs
+D:\test\WhereClause101\WhereClause101\obj\Debug\net6.0\WhereClause101.csproj.CoreCompileInputs.cache
+D:\test\WhereClause101\WhereClause101\obj\Debug\net6.0\WhereClause101.dll
+D:\test\WhereClause101\WhereClause101\obj\Debug\net6.0\refint\WhereClause101.dll
+D:\test\WhereClause101\WhereClause101\obj\Debug\net6.0\WhereClause101.pdb
+D:\test\WhereClause101\WhereClause101\obj\Debug\net6.0\WhereClause101.genruntimeconfig.cache
+D:\test\WhereClause101\WhereClause101\obj\Debug\net6.0\ref\WhereClause101.dll
