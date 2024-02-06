@@ -1,0 +1,14 @@
+D:\test\InterfaceConsoleApp\InterfaceConsoleApp\bin\Debug\net6.0\InterfaceConsoleApp.exe
+D:\test\InterfaceConsoleApp\InterfaceConsoleApp\bin\Debug\net6.0\InterfaceConsoleApp.deps.json
+D:\test\InterfaceConsoleApp\InterfaceConsoleApp\bin\Debug\net6.0\InterfaceConsoleApp.runtimeconfig.json
+D:\test\InterfaceConsoleApp\InterfaceConsoleApp\bin\Debug\net6.0\InterfaceConsoleApp.dll
+D:\test\InterfaceConsoleApp\InterfaceConsoleApp\bin\Debug\net6.0\InterfaceConsoleApp.pdb
+D:\test\InterfaceConsoleApp\InterfaceConsoleApp\obj\Debug\net6.0\InterfaceConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\test\InterfaceConsoleApp\InterfaceConsoleApp\obj\Debug\net6.0\InterfaceConsoleApp.AssemblyInfoInputs.cache
+D:\test\InterfaceConsoleApp\InterfaceConsoleApp\obj\Debug\net6.0\InterfaceConsoleApp.AssemblyInfo.cs
+D:\test\InterfaceConsoleApp\InterfaceConsoleApp\obj\Debug\net6.0\InterfaceConsoleApp.csproj.CoreCompileInputs.cache
+D:\test\InterfaceConsoleApp\InterfaceConsoleApp\obj\Debug\net6.0\InterfaceConsoleApp.dll
+D:\test\InterfaceConsoleApp\InterfaceConsoleApp\obj\Debug\net6.0\refint\InterfaceConsoleApp.dll
+D:\test\InterfaceConsoleApp\InterfaceConsoleApp\obj\Debug\net6.0\InterfaceConsoleApp.pdb
+D:\test\InterfaceConsoleApp\InterfaceConsoleApp\obj\Debug\net6.0\InterfaceConsoleApp.genruntimeconfig.cache
+D:\test\InterfaceConsoleApp\InterfaceConsoleApp\obj\Debug\net6.0\ref\InterfaceConsoleApp.dll
