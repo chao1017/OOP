@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U+cfHbOTLZ5CD5mCvDDusXCutTj9puE9cs2nfzsHAuC3f+FbL4HLGHbf5ffmZxlrct1UzhvHPbVx1MRN5cmt4w==",
+  "success": true,
+  "projectFilePath": "D:\\test\\NLog101\\NLog101\\NLog101.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\6551\\.nuget\\packages\\nlog\\5.2.8\\nlog.5.2.8.nupkg.sha512"
+  ],
+  "logs": []
+}
